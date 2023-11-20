@@ -28,12 +28,11 @@
 ![회원2](https://github.com/oink24/Kmarket/assets/136422103/c5d01121-c5b0-417f-84d3-28edb46cd547)
 ![회원3](https://github.com/oink24/Kmarket/assets/136422103/c96653b3-bdde-4d54-ae92-ce4a86280b09)
 ![상품](https://github.com/oink24/Kmarket/assets/136422103/d9f1c9d8-e4db-4a5f-b476-861ae2b2d79b)
-![상품2](https://github.com/oink24/Kmarket/assets/136422103/a199edf0-d16a-44ed-b9dc-472dc10cac76)
-![상품3](https://github.com/oink24/Kmarket/assets/136422103/06d93a85-d520-4f30-9b4b-ebd9d65d565c)
-![고객센터](https://github.com/oink24/Kmarket/assets/136422103/80aab23a-a8a4-410a-bcc0-be5b4e907bc1)
+![상품2](https://github.com/oink24/Kmarket/assets/136422103/0ca30b20-bd8f-4f02-9642-fff75b8016f8)
+![고객센터](https://github.com/oink24/Kmarket/assets/136422103/6ed478e0-f215-4adf-98c7-c00843895ae5)
 ![고객센터2](https://github.com/oink24/Kmarket/assets/136422103/1c0055bc-ee2c-4c06-a80f-b1b3c4e64640)
 ![관리자](https://github.com/oink24/Kmarket/assets/136422103/29046ee0-f5ab-49c4-b055-b411a773a5f7)
-![관리자2](https://github.com/oink24/Kmarket/assets/136422103/5dc5ca6e-8ac9-4037-abe2-10efb227838c)
+![관리자2](https://github.com/oink24/Kmarket/assets/136422103/2f0e7a8d-5597-4bab-bc2a-67b08926dede)
 <br/>
 <br/>
 <br/>
