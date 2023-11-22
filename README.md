@@ -19,7 +19,7 @@
 - Backend : `Java17` `JSP`
 - DBMS : `MySQL8.0`
 - Tool : `Eclipse IDE 2023-06(4.28.0)` `MySQL Workbench 8.0 CE` `HeidiSQL 12.5.0.6677`
-- Library : `mysql-connector` `slf4j` `javaxmail` `jstl` `json` `gson` `logback` 등
+- Library/API : `mysql-connector` `slf4j` `jstl` `json` `gson` `logback` 등
 <br/>
 <br/>
 
